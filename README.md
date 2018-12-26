@@ -65,9 +65,10 @@ Cut 2 pieces in the acrylic using [middle.dxf](middle.dxf). The kerf is assumed 
 ### Bottom Layer
 
 Go on [LaserBoost](https://shop.laserboost.com/en/create) and upload the [bottom.dxf] file. Select "Stainless Steel", "304 Stainless Steel Shiny Finish", 3mm. In the "special request for this part" text area, write:
-Back-side brushing
 
 > Please brush the edges. Add countersink to all the holes in order to hide a GB819-M2. Make the same piece twice but in mirror (countersinks on opposite side).
+
+![](img/bottom-layer.jpg)
 
 ### TRRS Cable (optional)
 
