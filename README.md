@@ -40,7 +40,7 @@ This build also assume that you have:
 
 ### Top Layer
 
-* Print the [top-left.stl](top-left.stl) and [toip-right.stl](top-right.stl).
+* Print the [top-left.stl](top-left.stl) and [top-right.stl](top-right.stl).
 * Sand each piece to remove the printing lines and get a smooth surface
 * Apply 2–3 layers of primer
 * Apply 3 layers of paint
