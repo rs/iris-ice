@@ -15,7 +15,7 @@ In this repository, you will find all the material needed to reproduce this buil
 Here is the list of material you'll need for this build:
 
 * [The Iris PCB kit](https://keeb.io/collections/frontpage/products/iris-keyboard-split-ergonomic-keyboard) with [LED support components](https://keeb.io/products/led-support-components-add-on?variant=8112255107178) (no LED strip underglow)
-* [100 white LEDs](https://spacecat.design/collections/do-it-yourself/products/1-8mm-leds) (pay attention to the color select, default is orange)
+* [100 white LEDs](https://spacecat.design/collections/do-it-yourself/products/1-8mm-leds?variant=7561792127018) (pay attention to the color select, default is orange)
 * [2 Elite-C](https://keeb.io/collections/frontpage/products/elite-c-usb-c-pro-micro-replacement-arduino-compatible-atmega32u4) (or pro-micro)
 * [Peel-A-Way sockets](https://keeb.io/products/peel-a-way-sockets-for-pro-micros-and-leds?variant=12972145344606) (optional)
 * [SA "Ice Cap" keyset](https://pimpmykeyboard.com/sa-ice-cap-keyset/)
